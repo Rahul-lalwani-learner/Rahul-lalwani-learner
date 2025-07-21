@@ -42,7 +42,7 @@ I'm an AI Developer and Researcher blending Deep Learning, Full‑Stack Web Deve
 #### 🩺 Heart & Respiratory Sound Expert System  
 AI model using 1D CNN for real-time detection of breathing and heart sound anomalies.  
 **Tech**: Streamlit, Python, Librosa  
-🔗 [View on Website](https://rahullalwani.com) | 📕 [CRC Book Chapter Published]
+🔗 [View on Website](https://rahullalwani.com/projects) | 📕 [CRC Book Chapter Published]
 
 #### 🐔 Chicken Disease Classification  
 End-to-end modular AI pipeline to classify healthy vs. diseased chickens via fecal imagery.  
@@ -51,7 +51,7 @@ End-to-end modular AI pipeline to classify healthy vs. diseased chickens via fec
 
 #### 🌐 Real-time Drawing + Chat App  
 Collaborative whiteboard with chat using Next.js, WebSocket, Prisma & PostgreSQL.  
-🔗 [Visit Project](https://rahullalwani.com)
+🔗 [Visit Project](https://rahullalwani.com/projects)
 
 ---
 
