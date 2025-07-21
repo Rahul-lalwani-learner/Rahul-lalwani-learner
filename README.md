@@ -75,7 +75,7 @@ Collaborative whiteboard with chat using Next.js, WebSocket, Prisma & PostgreSQL
 ### 🤝 Let's Connect
 
 - 📫 Email: itsrahullalwani@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/rahul-lalwani)  
+- 🔗 [LinkedIn](https://linkedin.com/in/itsrahullalwani/)  
 - 🐦 [Twitter](https://twitter.com/Lalwani_Rahul_)  
 - 🌐 [Portfolio](https://rahullalwani.com)
 
