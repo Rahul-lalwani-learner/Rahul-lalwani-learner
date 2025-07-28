@@ -40,9 +40,9 @@ I'm an AI Developer and Researcher blending Deep Learning, Full‑Stack Web Deve
 ### 📌 Featured Projects
 
 #### 🌐 Personal Portfolio
-full stack portfolio to showcase all my projects and work 
+full stack portfolio to showcase all my projects and work.
 **Tech**: Nextjs, Redis cache, Astra db, AI, Tailwind, Express
-🔗 [visit the github repo](https://github.com/Rahul-lalwani-learner/rahullalwani.com)
+🔗 [Visit the github repo](https://github.com/Rahul-lalwani-learner/rahullalwani.com)
 
 #### 🩺 Heart & Respiratory Sound Expert System  
 AI model using 1D CNN for real-time detection of breathing and heart sound anomalies.  
