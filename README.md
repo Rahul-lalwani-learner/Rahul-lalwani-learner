@@ -30,10 +30,12 @@ I'm an AI Developer and Researcher blending Deep Learning, Full‑Stack Web Deve
 
 ### 🧠 Skills
 
-- **Languages**: Python, Java, C, C++  
-- **ML/DL Frameworks**: PyTorch, TensorFlow, Keras, MONAI  
-- **Web Dev**: React.js, Next.js, Tailwind, Prisma, PostgreSQL, WebSockets  
-- **Data & Cloud**: Snowflake, SQL, AWS (Lambda, Scheduler), GitHub Actions  
+**Languages**: Python, JavaScript, Java, C, C++  
+**ML/DL Frameworks**: PyTorch, TensorFlow, Keras, MONAI, OpenCV, YOLOv8  
+**Web Development**: Next.js, React.js, TypeScript, Tailwind CSS, Express.js, WebSockets, Turborepo  
+**Database & Backend**: Prisma ORM, PostgreSQL, Redis, Astra DB, REST APIs  
+**Cloud & DevOps**: Snowflake, AWS (Lambda, S3, Event Scheduler), GitHub Actions, Docker  
+**Tools & Others**: Jupyter, Streamlit, Conda, pnpm, JWT Auth, Git, Linux  
 
 ---
 
@@ -44,22 +46,36 @@ A next-gen, full-stack developer portfolio that’s not just for *show* — it *
 **Tech**: Next.js, Redis Cache, Astra DB, RAG (Retrieval-Augmented Generation), AI, Tailwind, Express  
 🔗 [Visit the GitHub Repo](https://github.com/Rahul-lalwani-learner/rahullalwani.com)
 
+#### 📚 Machine Learning Projects Repository  
+A comprehensive, production-ready collection of machine learning and computer vision projects — from classic regression models to real-time object detection systems using YOLO.  
+**Highlights**:
+- **🚜 Bulldozer Price Prediction** (End-to-end regression pipeline)  
+- **❤️ Heart Disease Classification** (95%+ binary classification)  
+- **🐕 Dog Breed Prediction** (MobileNetV2-based multi-class CV model)  
+- **🖐️ Palmprint Detection** (Biometric vision system with paper)  
+- **🚗 Car & 👥 People Counters** (YOLOv8 + SORT tracking)  
+- **🦺 PPE Detection** (25-class safety compliance checker)  
+- **🃏 Poker Card Detection** (Vision-based hand classification)  
+- **🌍 Smartathon: Pollutant Classification** (ML competition solution)  
+**Tech**: Scikit-learn, TensorFlow, PyTorch, YOLOv8, OpenCV, Conda, Jupyter  
+🔗 [Visit ML Project Repository](https://github.com/Rahul-lalwani-learner/Machine-learning-projects)
+
+#### ✏️ ExcaliDraw - Collaborative Drawing & Chat App  
+A real-time collaborative drawing app with chat. Create rooms, sketch on a shared canvas, and chat in real time. Works across devices, with secure auth and persistent storage.  
+**Features**:  
+- Live drawing tools (pencil, shapes, zoom, drag)  
+- Integrated real-time chat  
+- Mobile and desktop responsive  
+- JWT auth, room management, WebSocket connections  
+**Tech**: Next.js 15, React 19, Tailwind, WebSocket, Express, PostgreSQL, Prisma, Turborepo  
+🔗 [Explore the Project](https://rahullalwani.com/projects)
+
 #### 🩺 Heart & Respiratory Sound Expert System  
 AI model using 1D CNN for real-time detection of breathing and heart sound anomalies.  
 **Tech**: Streamlit, Python, Librosa  
 🔗 [View on Website](https://rahullalwani.com/projects) | 📕 [CRC Book Chapter Published]
 
-#### 🐔 Chicken Disease Classification  
-End-to-end modular AI pipeline to classify healthy vs. diseased chickens via fecal imagery.  
-**Tech**: PyTorch, CNN, Modular Design  
-🔗 [LinkedIn Post](https://www.linkedin.com/posts/itsrahullalwani_deeplearningproject-industrystyle-modularprogramming-activity-7094854358487470082-7aTh)
-
-#### 🌐 Real-time Drawing + Chat App  
-Collaborative whiteboard with chat using Next.js, WebSocket, Prisma & PostgreSQL.  
-🔗 [Visit Project](https://rahullalwani.com/projects)
-
 ---
-
 
 ### 📄 Publications
 
