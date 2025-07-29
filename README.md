@@ -39,10 +39,10 @@ I'm an AI Developer and Researcher blending Deep Learning, Full‑Stack Web Deve
 
 ### 📌 Featured Projects
 
-#### 🌐 Personal Portfolio
-full stack portfolio to showcase all my projects and work.
-**Tech**: Nextjs, Redis cache, Astra db, AI, Tailwind, Express
-🔗 [Visit the github repo](https://github.com/Rahul-lalwani-learner/rahullalwani.com)
+#### 🤖 AI-Powered Personal Portfolio  
+A next-gen, full-stack developer portfolio that’s not just for *show* — it *talks back*. Integrated with **RAG-based AI chat**, it allows visitors to **interact**, **ask questions**, and learn more about the developer, tech stack, and projects — all in real time.  
+**Tech**: Next.js, Redis Cache, Astra DB, RAG (Retrieval-Augmented Generation), AI, Tailwind, Express  
+🔗 [Visit the GitHub Repo](https://github.com/Rahul-lalwani-learner/rahullalwani.com)
 
 #### 🩺 Heart & Respiratory Sound Expert System  
 AI model using 1D CNN for real-time detection of breathing and heart sound anomalies.  
@@ -59,6 +59,7 @@ Collaborative whiteboard with chat using Next.js, WebSocket, Prisma & PostgreSQL
 🔗 [Visit Project](https://rahullalwani.com/projects)
 
 ---
+
 
 ### 📄 Publications
 
